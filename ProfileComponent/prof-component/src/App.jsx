@@ -1,5 +1,7 @@
 import Profile from "./Components/Profile";
 import profileImg from "./assets/profile-pic.jpeg"
+import React from 'react'
+
 
 export default function App(){
   return(

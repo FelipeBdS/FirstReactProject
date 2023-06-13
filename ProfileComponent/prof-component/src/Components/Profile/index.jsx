@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types'
 import styles from "./styles.module.css"
+import React from 'react'
 
 export default function Profile({avatar, name, bio, phone, email, githubURL, linkedinURL}){
     return (
